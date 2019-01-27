@@ -9,6 +9,10 @@ public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Input value: ");
+        System.out.println("Input value: ");
+        System.out.println("Input value: ");
+        System.out.println("Input value: ");
+        System.out.println("Input value: ");
         String split = scan.nextLine();
 
         // String[] split = "123 234 678".split("\\s+");
