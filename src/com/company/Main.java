@@ -13,7 +13,12 @@ public class Main {
         System.out.println("Input value: ");
         System.out.println("Input value: ");
         System.out.println("Input value: ");
-        String split = scan.nextLine();
+        System.out.println("Input value: ");
+        System.out.println("Input value: ");
+        System.out.println("Input value: ");
+        System.out.println("Input value: ");
+        System.out.println("Input value: ");
+       
 
         // String[] split = "123 234 678".split("\\s+");
        //System.out.println(Arrays.toString(split));
