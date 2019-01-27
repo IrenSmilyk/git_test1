@@ -8,13 +8,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Input hello: ");
-        System.out.println("Input hello: ");
-        System.out.println("Input hello: ");
-        System.out.println("Input hello: ");
-        System.out.println("Input hello: ");
-        System.out.println("Input value: ");
-        System.out.println("Input value1111: ");
-        System.out.println("Input value: ");
+
 
 
         // String[] split = "123 234 678".split("\\s+");
